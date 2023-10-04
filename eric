@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"></meta>
+        <title>范貫傑</title>
+    </head>
+    <body>
+         <h1>hello 我是范貫傑</h1>
+         <p>hello</p>
+         <br/>
+         <hr/>
+         <h2>歡迎瀏覽我的網站</h2>
+         <a href="http://google.com">google 網站</a>
+         <a href="https://www.nowe.com">nowe </a>
+         <img src="jisoo.ico" height="400"/>
+         <img src="yoona.png" height="400"/>
+         <img src="blackpink photo.jpg"  height="400"/>
+    </body>
+</html>
